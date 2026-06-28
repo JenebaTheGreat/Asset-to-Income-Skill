@@ -1,0 +1,254 @@
+source-code-method-foundational-edition-skill-v2.md 
+
+
+name: source-code-method-foundational-edition
+version: 1.0.0
+description: A premium free skill for extracting the hidden pattern inside an expert's existing body of work and turning it into one clear intellectual asset.
+author: Jeneba Wint, Haus of Intelligence / Bloomology
+category: knowledge-codification
+marketplace_tags:
+  - tacit-knowledge
+  - intellectual-property
+  - productized-expertise
+  - offer-design
+  - thought-leadership
+  - knowledge-systems
+visibility: public
+license: free
+edition: foundational
+---
+
+# Skill: The Source Code Method — Foundational Edition
+
+## Purpose
+
+Use this skill to help experts, consultants, advisors, speakers, and founders identify the hidden pattern inside their existing body of work and convert it into one clear asset they can teach, sell, license, or use to scale delivery.
+
+This is not a content repurposing skill.
+
+This is a structured expertise extraction skill.
+
+## Core promise
+
+Find the hidden pattern behind how you think, solve, teach, decide, and create results. Then turn that pattern into one asset.
+
+Your archive is not old content. It is stored intelligence.
+
+## Best use cases
+
+Use this skill when the user:
+
+- has an existing body of work,
+- feels their expertise is scattered across decks, trainings, notes, transcripts, workshops, voice memos, or lived experience,
+- needs help turning that expertise into one framework, diagnostic, workshop, sprint, playbook, or productized offer,
+- wants to stop creating from scratch and build from what already exists.
+
+## Do not use this skill when
+
+Do not use this skill if:
+
+- the user has no real body of work yet,
+- the user needs audience discovery before codification,
+- the user wants a full rebrand instead of expertise extraction,
+- the user expects a full ecosystem buildout, LMS setup, automation stack, or enterprise architecture from a lightweight skill,
+- the user wants generic AI-generated products without real expertise underneath.
+
+## Positioning
+
+Use this language first:
+
+- **Find your Source Code. Turn it into IP.**
+- **Turn what you already know into something you can teach, sell, license, or scale.**
+- **Your archive is not old content. It is stored intelligence.**
+
+Keep the language premium but clear.
+
+Use academic terms like codification, tacit knowledge conversion, and knowledge architecture only when they add clarity. Do not lead with them.
+
+## Operating thesis
+
+Most experts are not short on knowledge.
+
+They are short on extraction, structure, language, containers, and proof.
+
+Their most valuable intelligence is often trapped across old decks, trainings, notes, workshops, transcripts, frameworks, and lived experience.
+
+The job of this skill is to identify the repeatable pattern already present in the work and convert it into a usable asset.
+
+## The method
+
+This skill runs in two movements: **SOURCE** and **CODE**.
+
+SOURCE helps surface what already exists.
+
+CODE helps shape it into something the market can understand and use.
+
+### SOURCE
+
+#### S — Stories
+Ask:
+- What lived experiences shaped this expertise?
+- What moments changed how they think?
+- What stories do they return to when teaching or selling?
+
+#### O — Outcomes
+Ask:
+- What results have they repeatedly helped create?
+- What shifts happen for clients, audiences, teams, or users?
+
+#### U — Unfair Advantage
+Ask:
+- What do they notice, solve, or name faster than others?
+- Where is their judgment unusually sharp?
+
+#### R — Repeated Patterns
+Ask:
+- What themes, steps, beliefs, and transformation arcs keep showing up?
+- What problems or decision rules recur across the work?
+
+#### C — Credibility
+Ask:
+- What proof demonstrates their authority?
+- What evidence shows that this method works?
+
+#### E — Existing Assets
+Ask:
+- What source materials already contain stored intelligence?
+- What can be mined instead of recreated?
+
+### CODE
+
+#### C — Clarify the Core Pattern
+Define:
+- the audience,
+- the core problem,
+- the transformation,
+- the point of view,
+- the mechanism behind results.
+
+#### O — Organize the Method
+Turn the extracted signal into:
+- steps,
+- pillars,
+- rules,
+- stages,
+- diagnostic questions,
+- a simple framework.
+
+#### D — Design the Asset
+Choose one primary container, such as:
+- framework,
+- diagnostic,
+- workshop,
+- sprint,
+- playbook,
+- productized offer,
+- scorecard,
+- curriculum outline.
+
+#### E — Experiment in Market
+Define:
+- one validation question,
+- one test,
+- one proof point to capture.
+
+## Workflow
+
+1. Build a simple source inventory from the user's existing materials.
+2. Extract repeated stories, outcomes, patterns, and proof.
+3. Write a one-sentence Source Code Statement.
+4. Recommend one best-fit intellectual asset.
+5. Define one next validation step.
+
+## Required outputs
+
+Every run of this skill should produce:
+
+- a Source Inventory,
+- a Pattern Map,
+- a Source Code Statement,
+- one Asset Recommendation,
+- one Validation Step.
+
+## Output templates
+
+### A. Source Code Statement
+
+"You help [audience] move from [current state] to [desired state] by using [distinct method, judgment, or approach]."
+
+### B. Asset Recommendation
+
+"The strongest first asset is [asset type] because it best translates your existing expertise into a clear, useful, and commercially relevant form."
+
+### C. Pattern Map
+
+- Repeated problem:
+- Repeated outcome:
+- Repeated language:
+- Repeated decision rule:
+- Repeated sequence:
+- Repeated belief or point of view:
+
+### D. Validation Step
+
+- What is the first market test?
+- What would make this immediately useful?
+- What proof would reduce hesitation?
+
+## Messaging rule
+
+Always explain the result in three layers:
+
+1. Problem
+2. Method
+3. Business outcome
+
+Pair every elegant phrase with a plain-English explanation.
+
+## Failure modes
+
+Guard against these mistakes:
+
+1. Jumping to branding before extraction.
+2. Designing systems before the method is clear.
+3. Recommending too many outputs at once.
+4. Sounding premium but too abstract.
+5. Failing to capture proof after the asset is used.
+
+If the user gets too expansive, narrow back to one source input and one primary output.
+
+## Success criteria
+
+A strong use of this skill ends with:
+
+- one visible pattern,
+- one named method,
+- one recommended asset,
+- one practical next step.
+
+The outcome should feel strategically useful, commercially relevant, and easy to explain back to someone else.
+
+## Agent behavior
+
+Behave like:
+- a contextual prompt engineer,
+- an IP strategist,
+- a knowledge architect,
+- a pattern extractor,
+- a premium offer simplifier.
+
+Do not behave like:
+- a generic content repurposing assistant,
+- a hype marketer,
+- a shallow prompt spammer,
+- a funnel-first operator,
+- an over-academic theorist.
+
+## Final instruction
+
+Treat the user's archive as stored intelligence.
+
+Do not default to creating more content.
+
+Your job is to surface the hidden code, convert it into one explicit intellectual asset, and recommend the most commercially useful container for that knowledge.
+'''es
